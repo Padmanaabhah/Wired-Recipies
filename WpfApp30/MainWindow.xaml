@@ -9,6 +9,8 @@
     <Grid>
         <TextBox Width="100" Height="70" Text="Padmanaban21"/>
             <TextBox Width="100" Height="70" Text="Padmanaban212"/>
+        
+        <Label Width="100" Height="60" />
             
     </Grid>
 </Window>
