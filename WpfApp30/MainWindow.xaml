@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox Width="100" Height="70" Text="Padmanaban221"/>
+        <TextBox Width="100" Height="70" Text="Padmanaban21"/>
+            <TextBox Width="100" Height="70" Text="Padmanaban212"/>
+            
     </Grid>
 </Window>
