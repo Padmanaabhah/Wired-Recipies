@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Width="100" Height="70" Text="Padmanaban21"/>
-            <TextBox Width="100" Height="70" Text="Padmanaban212"/>
+            <TextBox Width="100" Height="70" Text="Padmanaban212 ok"/>
         
         <Label Width="100" Height="60" Content="Label" />
             
